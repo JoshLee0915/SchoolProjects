@@ -1,0 +1,42 @@
+C:\Users\Pttn40\Documents\Visual Studio 2013\Projects\llParserGUI\lexAnlsGUI\bin\Debug\lexAnlsGUI.exe.config
+C:\Users\Pttn40\Documents\Visual Studio 2013\Projects\llParserGUI\lexAnlsGUI\obj\Debug\lexAnlsGUI.exe
+C:\Users\Pttn40\Documents\Visual Studio 2013\Projects\llParserGUI\lexAnlsGUI\obj\Debug\lexAnlsGUI.pdb
+C:\Users\Pttn40\Documents\Visual Studio 2013\Projects\llParserGUI\llParserGUI\bin\Debug\lexAnlsGUI.exe.config
+C:\Users\Pttn40\Documents\Visual Studio 2013\Projects\llParserGUI\llParserGUI\obj\Debug\lexAnlsGUI.exe
+C:\Users\Pttn40\Documents\Visual Studio 2013\Projects\llParserGUI\llParserGUI\obj\Debug\lexAnlsGUI.pdb
+C:\Users\Pttn40\Documents\Visual Studio 2013\Projects\llParserGUI\llParserGUI\obj\Debug\llParserGUI.csprojResolveAssemblyReference.cache
+C:\Users\Pttn40\Documents\Visual Studio 2013\Projects\llParserGUI\llParserGUI\obj\Debug\llParserGUI.csproj.GenerateResource.Cache
+C:\Users\Pttn40\Documents\Visual Studio 2013\Projects\llParserGUI\llParserGUI\bin\Debug\about.txt
+C:\Users\Pttn40\Documents\Visual Studio 2013\Projects\llParserGUI\llParserGUI\bin\Debug\lexTable.xml
+C:\Users\Pttn40\Documents\Visual Studio 2013\Projects\llParserGUI\llParserGUI\bin\Debug\lexTable.xml.bac
+C:\Users\Pttn40\Documents\Visual Studio 2013\Projects\llParserGUI\llParserGUI\bin\Debug\lexAnlsGUI.exe
+C:\Users\Pttn40\Documents\Visual Studio 2013\Projects\llParserGUI\llParserGUI\bin\Debug\lexAnlsGUI.pdb
+C:\Users\Pttn40\Documents\Visual Studio 2013\Projects\llParserGUI\llParserGUI\obj\Debug\llParserGUI.Form1.resources
+C:\Users\Pttn40\Documents\Visual Studio 2013\Projects\llParserGUI\llParserGUI\obj\Debug\llParserGUI.Properties.Resources.resources
+C:\Users\Pttn40\Documents\Visual Studio 2013\Projects\llParserGUI\llParserGUI\bin\Debug\predictSet.xml
+I:\csci305\llParserGUI\llParserGUI\bin\Debug\about.txt
+I:\csci305\llParserGUI\llParserGUI\bin\Debug\predictSet.xml
+I:\csci305\llParserGUI\llParserGUI\bin\Debug\lexTable.xml
+I:\csci305\llParserGUI\llParserGUI\bin\Debug\lexTable.xml.bac
+I:\csci305\llParserGUI\llParserGUI\bin\Debug\lexAnlsGUI.exe.config
+I:\csci305\llParserGUI\llParserGUI\bin\Debug\lexAnlsGUI.exe
+I:\csci305\llParserGUI\llParserGUI\bin\Debug\lexAnlsGUI.pdb
+I:\csci305\llParserGUI\llParserGUI\obj\Debug\llParserGUI.csprojResolveAssemblyReference.cache
+I:\csci305\llParserGUI\llParserGUI\obj\Debug\llParserGUI.Form1.resources
+I:\csci305\llParserGUI\llParserGUI\obj\Debug\llParserGUI.Properties.Resources.resources
+I:\csci305\llParserGUI\llParserGUI\obj\Debug\llParserGUI.csproj.GenerateResource.Cache
+I:\csci305\llParserGUI\llParserGUI\obj\Debug\lexAnlsGUI.exe
+I:\csci305\llParserGUI\llParserGUI\obj\Debug\lexAnlsGUI.pdb
+F:\csci305\llParserTurnIn\llParserGUI\llParserGUI\bin\Debug\lexAnlsGUI.exe.config
+F:\csci305\llParserTurnIn\llParserGUI\llParserGUI\obj\Debug\lexAnlsGUI.exe
+F:\csci305\llParserTurnIn\llParserGUI\llParserGUI\obj\Debug\lexAnlsGUI.pdb
+F:\csci305\llParserTurnIn\llParserGUI\llParserGUI\bin\Debug\about.txt
+F:\csci305\llParserTurnIn\llParserGUI\llParserGUI\bin\Debug\predictSet.xml
+F:\csci305\llParserTurnIn\llParserGUI\llParserGUI\bin\Debug\lexTable.xml
+F:\csci305\llParserTurnIn\llParserGUI\llParserGUI\bin\Debug\lexTable.xml.bac
+F:\csci305\llParserTurnIn\llParserGUI\llParserGUI\bin\Debug\lexAnlsGUI.exe
+F:\csci305\llParserTurnIn\llParserGUI\llParserGUI\bin\Debug\lexAnlsGUI.pdb
+F:\csci305\llParserTurnIn\llParserGUI\llParserGUI\obj\Debug\llParserGUI.csprojResolveAssemblyReference.cache
+F:\csci305\llParserTurnIn\llParserGUI\llParserGUI\obj\Debug\llParserGUI.Form1.resources
+F:\csci305\llParserTurnIn\llParserGUI\llParserGUI\obj\Debug\llParserGUI.Properties.Resources.resources
+F:\csci305\llParserTurnIn\llParserGUI\llParserGUI\obj\Debug\llParserGUI.csproj.GenerateResource.Cache

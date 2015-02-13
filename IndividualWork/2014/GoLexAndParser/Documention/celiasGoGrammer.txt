@@ -1,0 +1,57 @@
+program -> func_def_list $
+func_def_list -> func_def func_def_list
+func_def -> EPSILON
+func_def -> func id lparen parm_list rparen func_def_rest
+func_def_rest -> data_type lbrace stmt_block rbrace
+func_def_rest -> lbrace stmt_block rbrace
+parm_list -> parm_list parm_list_tail
+parm_list -> EPSILON
+parm_list_tail -> comma parm_pair parm_list_tail
+parm_list_tail -> EPSILON
+parm_pair -> id data_type
+stmt_block -> stmt stmt_block
+stmt_block -> EPSILON
+stmt -> var_decl
+stmt -> const_decl
+stmt -> assign_stmt
+stmt -> for_stmt
+stmt -> if_stmt
+stmt -> return_stmt
+var_decl -> var id_list data_type
+const_decl -> const id_list data_type
+id_list -> id id_list_tail
+id_list_tail -> comma id_list
+id_list_tail -> EPSILON
+assign_stmt -> id assign expr
+for_stmt -> for condition for_stmt_rest
+for_stmt_rest -> stmt
+for_stmt_rest -> lbrace stmt_block rbrace
+if_stmt -> if condition if_stmt_rest
+if_stmt_rest -> stmt if_tail
+if_stmt_rest -> lbrace stmt_block rbrace if_tail
+if_tail -> else if_tail_rest
+if_tail_rest -> stmt
+if_tail_rest -> lbrace stmt_block rbrace
+if_tail -> EPSILON
+condition -> expr comp_op expr
+return_stmt -> return return_stmt_rest
+return_stmt_rest -> expr
+return_stmt_rest -> EPSILON
+expr -> term term_tail
+term_tail -> op term term_tail
+term_tail -> EPSILON
+term -> factor factor_tail
+factor_tail -> op factor factor_tail
+factor_tail -> EPSILON
+factor -> lparen expr rparen
+factor -> int_lit
+factor -> float_lit
+factor -> id factor_rest
+factor_rest -> lparen arg_list rparen
+factor_rest -> EPSILON
+arg_list -> expr arg_list_tail
+arg_list -> EPSILON
+arg_list_tail -> comma expr arg_list_tail
+arg_list_tail -> EPSILON
+data_type -> int
+data_type -> float

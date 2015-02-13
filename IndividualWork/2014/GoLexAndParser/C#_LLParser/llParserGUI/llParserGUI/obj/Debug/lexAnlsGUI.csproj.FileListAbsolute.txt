@@ -1,0 +1,15 @@
+c:\users\pttn40\documents\visual studio 2013\Projects\lexAnlsGUI\lexAnlsGUI\bin\Debug\lexAnlsGUI.exe.config
+c:\users\pttn40\documents\visual studio 2013\Projects\lexAnlsGUI\lexAnlsGUI\bin\Debug\lexAnlsGUI.exe
+c:\users\pttn40\documents\visual studio 2013\Projects\lexAnlsGUI\lexAnlsGUI\bin\Debug\lexAnlsGUI.pdb
+c:\users\pttn40\documents\visual studio 2013\Projects\lexAnlsGUI\lexAnlsGUI\obj\Debug\lexAnlsGUI.csprojResolveAssemblyReference.cache
+c:\users\pttn40\documents\visual studio 2013\Projects\lexAnlsGUI\lexAnlsGUI\obj\Debug\lexAnlsGUI.Form1.resources
+c:\users\pttn40\documents\visual studio 2013\Projects\lexAnlsGUI\lexAnlsGUI\obj\Debug\lexAnlsGUI.Properties.Resources.resources
+c:\users\pttn40\documents\visual studio 2013\Projects\lexAnlsGUI\lexAnlsGUI\obj\Debug\lexAnlsGUI.csproj.GenerateResource.Cache
+c:\users\pttn40\documents\visual studio 2013\Projects\lexAnlsGUI\lexAnlsGUI\obj\Debug\lexAnlsGUI.exe
+c:\users\pttn40\documents\visual studio 2013\Projects\lexAnlsGUI\lexAnlsGUI\obj\Debug\lexAnlsGUI.pdb
+c:\users\pttn40\documents\visual studio 2013\Projects\lexAnlsGUI\lexAnlsGUI\bin\Debug\about.txt
+C:\Users\Pttn40\documents\visual studio 2013\Projects\lexAnlsGUI\lexAnlsGUI\bin\Debug\lexTable.xml.bac
+C:\Users\Pttn40\documents\visual studio 2013\Projects\lexAnlsGUI\lexAnlsGUI\bin\Debug\lexTable.xml
+C:\Users\Pttn40\Documents\Visual Studio 2013\Projects\llParserGUI\lexAnlsGUI\bin\Debug\lexAnlsGUI.exe.config
+C:\Users\Pttn40\Documents\Visual Studio 2013\Projects\llParserGUI\lexAnlsGUI\obj\Debug\lexAnlsGUI.exe
+C:\Users\Pttn40\Documents\Visual Studio 2013\Projects\llParserGUI\lexAnlsGUI\obj\Debug\lexAnlsGUI.pdb

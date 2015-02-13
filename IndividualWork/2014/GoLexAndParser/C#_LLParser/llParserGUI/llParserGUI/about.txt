@@ -1,0 +1,15 @@
+Welcome to the llParserGUI.
+This program reads a file and displays the token stream created from that file and pares the file while displaying detailed information about the tokens and errors found. If no errors are found the Error window will display No Errors Found Success! If errors where found the Errors window will display a list of all found errors followed by Failed! Note that parser errors will be prefixed with [ERR] while token errors will not. 
+
+To use:
+1. Press the open file button to display the file dialog then select a file to parse.
+2. Once the file is loaded select the Token Stream tab to display the token stream window.
+3. Click the next token button to get the next token in the stream. As you step through the token stream the corresponding token will be highlighted in green. NOTE: Errors will be highlighted in red by as soon as the file is done loading.
+4. (Optional)Open a new file - You can chose to load a new file at any time by clicking the open file button again and repeating step one.
+
+To Display Stack Trace and Parse Tree:
+1. Open the file like step one in To use
+2. To see the stack trace select the Parse Stack Trace tab.
+3. To see the tree select the Parse Tree tab. The tree will be shown in its fully expanded form when the tab is opened. NOTE: If the text color of the tree is red a parse error has occurred.
+
+NOTE: To ensure the grammer is LL(1) compatible if and else statements must be closed with brackets.

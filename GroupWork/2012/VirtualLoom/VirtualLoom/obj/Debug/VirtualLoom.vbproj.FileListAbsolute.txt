@@ -1,0 +1,11 @@
+c:\users\pttn40\documents\visual studio 2012\Projects\VirtualLoom\VirtualLoom\bin\Debug\VirtualLoom.exe.config
+c:\users\pttn40\documents\visual studio 2012\Projects\VirtualLoom\VirtualLoom\bin\Debug\VirtualLoom.exe
+c:\users\pttn40\documents\visual studio 2012\Projects\VirtualLoom\VirtualLoom\bin\Debug\VirtualLoom.pdb
+c:\users\pttn40\documents\visual studio 2012\Projects\VirtualLoom\VirtualLoom\bin\Debug\VirtualLoom.xml
+c:\users\pttn40\documents\visual studio 2012\Projects\VirtualLoom\VirtualLoom\obj\Debug\VirtualLoom.Form1.resources
+c:\users\pttn40\documents\visual studio 2012\Projects\VirtualLoom\VirtualLoom\obj\Debug\VirtualLoom.Resources.resources
+c:\users\pttn40\documents\visual studio 2012\Projects\VirtualLoom\VirtualLoom\obj\Debug\VirtualLoom.vbproj.GenerateResource.Cache
+c:\users\pttn40\documents\visual studio 2012\Projects\VirtualLoom\VirtualLoom\obj\Debug\VirtualLoom.exe
+c:\users\pttn40\documents\visual studio 2012\Projects\VirtualLoom\VirtualLoom\obj\Debug\VirtualLoom.xml
+c:\users\pttn40\documents\visual studio 2012\Projects\VirtualLoom\VirtualLoom\obj\Debug\VirtualLoom.pdb
+c:\users\pttn40\documents\visual studio 2012\Projects\VirtualLoom\VirtualLoom\obj\Debug\VirtualLoom.NewPatternDialogeBox.resources

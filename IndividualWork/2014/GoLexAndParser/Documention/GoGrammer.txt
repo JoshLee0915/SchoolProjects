@@ -1,0 +1,30 @@
+program -> func_def_list $$
+func_def_list -> func_def func_def_list | EPSILON
+func_def -> func id lparen parm_list rparen func_def_tail
+func_def_tail -> data_type lbrace stmt_block rbrace | lbrace stmt_block rbrace
+parm_list -> parm_pair parm_list_tail | EPSILON
+parm_list_tail -> comma parm_pair parm_list_tail | EPSILON
+parm_pair -> id data_type
+stmt_block -> stmt stmt_block | EPSILON
+stmt -> var_decl | const_decl | assign_stmt | for_stmt | if_stmt | return_stmt
+var_decl -> var id_list data_type
+const_decl -> const id_list data_type
+id_list -> id id_list_tail
+id_list_tail -> comma id_list | EPSILON
+assign_stmt -> id assign expr
+for_stmt -> for condition for_stmt_tail
+for_stmt_tail -> stmt | lbrace stmt_block rbrace
+if_stmt -> if condition if_stmt_tail
+if_stmt_tail -> lbrace stmt_block rbrace else_stmt
+else_stmt -> else else_stmt_tail | EPSILON
+else_stmt_tail -> lbrace stmt_block rbrace
+condition -> expr comp_op expr
+return_stmt -> return return_stmt_tail
+return_stmt_tail -> expr | EPSILON
+expr -> term term_tail
+term_tail -> op term term_tail | EPSILON
+term -> lparen expr rparen | int_lit | float_lit | id term_rest 
+term_rest -> lparen arg_list rparen | EPSILON
+arg_list -> expr arg_list_tail | EPSILON
+arg_list_tail -> comma expr arg_list_tail | EPSILON
+data_type -> int | float
